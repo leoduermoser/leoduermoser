@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @leoduermoser
+- 👀 I’m interested in informatics
+- 🌱 I’m currently learning playwright
